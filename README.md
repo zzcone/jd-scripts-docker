@@ -1,5 +1,5 @@
 ## jd-scripts-docker
-docker启动。
+docker启动。。
 
 ### 安装依赖
 git docker docker-compose
